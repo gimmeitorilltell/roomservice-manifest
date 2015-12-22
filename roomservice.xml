@@ -4,7 +4,6 @@
   <remote fetch="ssh://git@github.com" name="private" />
   <remote fetch="https://github.com/Split-Screen" name="ss" review="review.pac-rom.com" />
   <project name="gimmeitorilltell/android_device_samsung_quincyatt" path="device/samsung/quincyatt" remote="github" revision="p6.0" />
-  <!--project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-13.0" /-->
   <project name="gimmeitorilltell/device_samsung_msm8660-common" path="device/samsung/msm8660-common" remote="github" revision="cm-13.0" />
   <project name="gimmeitorilltell/android_device_samsung_quincy-common" path="device/samsung/quincy-common" remote="github" revision="cm-13.0" />
   <project name="gimmeitorilltell/android_kernel_samsung_msm8660-common" path="kernel/samsung/msm8660-common" remote="github" revision="cm-13.0" />
@@ -20,5 +19,5 @@
   <project name="android_device_qcom_common" path="device/qcom/common" remote="ss" revision="pac-6.0" />
   <project name="android_kernel_htc_msm8960" path="kernel/htc/msm8960" remote="ss" revision="pac-6.0" />
   <project name="android_hardware_qcom_fm" path="hardware/qcom/fm" remote="ss" revision="pac-6.0" />
-  <project name="proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-13.0" />
+  <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-13.0" />
 </manifest>
