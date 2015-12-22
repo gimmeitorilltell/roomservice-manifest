@@ -1,0 +1,1 @@
+These are my personal sources used to compile CyanogenMod. They are still a WIP so BEWARE if you use these for now!
