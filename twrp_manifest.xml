@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-13.0" />
+
+    <project name="CyanogenMod/android_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" revision="cm-12.1" />
+
+  <project name="gimmeitorilltell/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0" />
+
+        <project name="NoSpamDan/device_samsung_msm8660-common" path="device/samsung/msm8660-common" remote="github" revision="twrp-android-5.0" />
+
+        <project name="NoSpamDan/device_samsung_celox-common" path="device/samsung/celox-common" remote="github" revision="twrp-android-5.0" />
+
+        <project name="NoSpamDan/device_samsung_skyrocket" path="device/samsung/skyrocket" remote="github" revision="twrp-android-5.0" />
+
+        <project name="NoSpamDan/device_samsung_hercules" path="device/samsung/hercules" remote="github" revision="twrp-android-5.0" />
+
+        <project name="SlimRoms/kernel_samsung_msm8660" path="kernel/samsung/msm8660-common" remote="github" revision="lp5.1" />
+
+        <project name="gimmeitorilltell/android_device_samsung_quincy-common" path="device/samsung/quincy-common" remote="github" revision="lp5.1" />
+
+        <project name="gimmeitorilltell/android_device_samsung_quincyatt" path="device/samsung/quincyatt" remote="github" revision="c6" />
+
+        <remove-project name="android_bionic" path="bionic" />
+
+        <project name="CyanogenMod/android_bionic" path="bionic" remote="github" revision="cm-12.1" />
+
+</manifest>
