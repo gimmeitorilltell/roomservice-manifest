@@ -11,7 +11,7 @@
            review="https://review.slimroms.org/"/>
 
   <project name="gimmeitorilltell/device_samsung_zerofltespr" path="device/samsung/zerofltespr" remote="github" revision="c6" />
-  <project name="gimmeitorilltell/android_kernel_samsung_zeroflte" path="kernel/samsung/zeroflte" remote="github" revision="c6" />
+  <project name="gimmeitorilltell/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="github" revision="c6" />
   <project name="gimmeitorilltell/android_device_samsung_quincyatt" path="device/samsung/quincyatt" remote="github" revision="c6" />
   <project name="gimmeitorilltell/device_samsung_msm8660-common" path="device/samsung/msm8660-common" remote="github" revision="candy6" />
   <project name="CandyDevices/device_samsung_quincy-common" path="device/samsung/quincy-common" remote="github" revision="c6" />
