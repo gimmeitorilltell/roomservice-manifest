@@ -10,7 +10,6 @@
            fetch="git://github.com/SlimRoms"
            review="https://review.slimroms.org/"/>
 
-  <project name="gimmeitorilltell/device_samsung_zero-common" path="device/samsung/zero-common" remote="github" revision="c6" />
   <project name="gimmeitorilltell/device_samsung_zerofltespr" path="device/samsung/zerofltespr" remote="github" revision="c6" />
   <project name="gimmeitorilltell/android_kernel_samsung_zeroflte" path="kernel/samsung/zeroflte" remote="github" revision="c6" />
   <project name="gimmeitorilltell/android_device_samsung_quincyatt" path="device/samsung/quincyatt" remote="github" revision="c6" />
