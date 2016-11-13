@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>          
+  <remote  name="gs"
+           fetch="https://git.sphere.ly" />
+
+  <remote  name="private"
+           fetch="ssh://git@github.com" />
+
+  <project name="gimmeitorilltell/device_samsung_zerofltespr" path="device/samsung/zerofltespr" remote="github" revision="c6" />
+  <project name="gimmeitorilltell/kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="github" revision="c6" />
+  <project name="CandyDevices/device_samsung_quincyatt" path="device/samsung/quincyatt" remote="github" revision="c6" />
+  <project name="CandyDevices/device_samsung_msm8660-common" path="device/samsung/msm8660-common" remote="github" revision="c6" />
+  <project name="CandyDevices/device_samsung_quincy-common" path="device/samsung/quincy-common" remote="github" revision="c6" />
+  <project name="CandyDevices/kernel_samsung_msm8660-common" path="kernel/samsung/msm8660-common" remote="github" revision="c6" />
+  <project name="CandyDevices/device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="c6" />
+  <project name="gimmeitorilltell/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.0" />
+  <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-14.1" />
+  <project name="CandyDevices/device_htc_t6spr" path="device/htc/t6spr" remote="github" revision="c7.1" />
+  <project name="CandyDevices/device_htc_t6-common" path="device/htc/t6-common" remote="github" revision="c7.1" />
+  <project name="CandyDevices/device_htc_t6vzw" path="device/htc/t6vzw" remote="github" revision="c7.1" />
+  <project name="CandyDevices/device_htc_t6" path="device/htc/t6" remote="github" revision="c7.1" />
+  <project name="CandyDevices/device_htc_m7vzw" path="device/htc/m7vzw" remote="github" revision="c7.1" />
+  <project name="CandyDevices/device_htc_m7spr" path="device/htc/m7spr" remote="github" revision="c7.1" />
+  <project name="CandyDevices/device_htc_m7-common" path="device/htc/m7-common" remote="github" revision="c7.1" />
+  <project name="CandyDevices/device_htc_msm8960-common" path="device/htc/msm8960-common" remote="github" revision="c7.1" />
+  <project name="CandyDevices/kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" revision="c7.1" />
+  <project name="CandyDevices/device_htc_m7" path="device/htc/m7" remote="github" revision="c7.1" />
+<project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
+  <project name="CyanogenMod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-14.1" />
+</manifest>
