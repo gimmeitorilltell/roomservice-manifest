@@ -1,1 +1,1 @@
-These are my personal sources used to compile CANDY6. They are still a WIP so BEWARE if you use these for now!
+These are my personal sources used to compile CANDY.
