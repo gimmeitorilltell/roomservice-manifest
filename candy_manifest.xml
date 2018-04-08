@@ -3,7 +3,11 @@
   <remote fetch="ssh://git@github.com" name="github-private" revision="replicant-6.0" />
   <remote fetch="https://github.com/TeamNexus" name="nexus" revision="nx-8.1" />
   <project name="SecretIngredients/vendor_htc" path="vendor/htc" remote="github" revision="c8.1" />
+
+    <!-- HTC Kernels -->
   <project name="CandyDevices/kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" revision="c8.1" />
+
+    <!-- HTC device Trees -->
   <project name="CandyDevices/device_htc_t6" path="device/htc/t6" remote="github" revision="c8.0" />
   <project name="CandyDevices/device_htc_t6spr" path="device/htc/t6spr" remote="github" revision="c8.0" />
   <project name="CandyDevices/device_htc_t6vzw" path="device/htc/t6vzw" remote="github" revision="c8.0" />
@@ -12,8 +16,12 @@
   <project name="CandyDevices/device_htc_m7spr" path="device/htc/m7spr" remote="github" revision="c8.1" />
   <project name="CandyDevices/device_htc_m7-common" path="device/htc/m7-common" remote="github" revision="c8.1" />
   <project name="Flyhalf205/android_device_htc_t6-common" path="device/htc/t6-common" remote="github" revision="lineage-15.1" />
+
+    <!-- Support -->
   <project name="CandyRoms/external_stlport" path="external/stlport" remote="github" revision="c8.1" />
   <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-15.1" />
+
+    <!-- ZERO device Trees -->
   <project name="CandyDevices/device_samsung_zero-common" path="device/samsung/zero-common" remote="github" revision="c8.1" />
   <project name="CandyDevices/device_samsung_zerofltespr" path="device/samsung/zerofltespr" remote="github" revision="c8.1" />
   <project name="gimmeitorilltell/device_samsung_noblelte-common" path="device/samsung/noblelte-common" remote="github" revision="c8.1" />
@@ -27,10 +35,18 @@
   <project name="CandyDevices/device_samsung_zeroltecan" path="device/samsung/zeroltecan" remote="github" revision="c8.1" />
   <project name="CandyDevices/device_samsung_zerofltexx" path="device/samsung/zerofltexx" remote="github" revision="c8.1" />
   <project name="CandyDevices/device_samsung_zeroflteskt" path="device/samsung/zeroflteskt" remote="github" revision="c8.1" />
+
+    <!-- Sammy Vendor folders -->
   <project name="SecretIngredients/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="c8.1" />
+
+    <!-- Sammy Kernel -->
   <project name="CandyDevices/kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="github" revision="c8.1" />
   <project name="gimmeitorilltell/kernel_samsung_noblelte" path="kernel/samsung/noblelte" remote="github" revision="c8.1" />
+
+    <!-- Zero ToolChain -->
   <project name="gimmeitorilltell/prebuilts_linaro" path="prebuilts/linaro" remote="github" revision="c8.1" />
+
+    <!-- Mata Repos -->
   <project name="CandyDevices/kernel_essential_msm8998" path="kernel/essential/msm8998" remote="github" revision="c8.1" />
   <project name="CandyDevices/device_essential_mata" path="device/essential/mata" remote="github" revision="c8.1" />
   <project name="CandyDevices/proprietary_vendor_essential" path="vendor/essential" remote="github" revision="8.1" />
