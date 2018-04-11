@@ -2,7 +2,10 @@
 <manifest>
   <remote fetch="ssh://git@github.com" name="github-private" revision="replicant-6.0" />
   <remote fetch="https://github.com/TeamNexus" name="nexus" revision="nx-8.1" />
-  <project name="SecretIngredients/vendor_htc" path="vendor/htc" remote="github" revision="c8.1" />
+
+    <!-- Berkeley -->
+  <project name="SlimDev/device_huawei_berkeley" path="device/huawei/berkeley" remote="github" revision="master" />
+  <project name="SlimDev/proprietary_vendor_huawei_berkeley" path="vendor/huawei/berkeley" remote="github" revision="master" />
 
     <!-- HTC Kernels -->
   <project name="CandyDevices/kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" revision="c8.1" />
@@ -16,6 +19,7 @@
   <project name="CandyDevices/device_htc_m7spr" path="device/htc/m7spr" remote="github" revision="c8.1" />
   <project name="CandyDevices/device_htc_m7-common" path="device/htc/m7-common" remote="github" revision="c8.1" />
   <project name="Flyhalf205/android_device_htc_t6-common" path="device/htc/t6-common" remote="github" revision="lineage-15.1" />
+  <project name="SecretIngredients/vendor_htc" path="vendor/htc" remote="github" revision="c8.1" />
 
     <!-- Support -->
   <project name="CandyRoms/external_stlport" path="external/stlport" remote="github" revision="c8.1" />
